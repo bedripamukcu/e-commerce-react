@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot from 2023-08-12 21-15-29](https://github.com/bedripamukcu/e-commerce-react/assets/78436362/7003d010-b4c4-4a6a-af8d-a48866f7764d)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
